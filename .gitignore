@@ -7,8 +7,4 @@ __pycache__/
 .venv/
 venv/
 
-figures/*.png
-figures/*.pdf
-figures/*.html
-figures/*.svg
 !.gitkeep
