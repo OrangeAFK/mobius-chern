@@ -1,0 +1,38 @@
+{
+  "Nx": 40,
+  "Ny": 12,
+  "lam": 1.0,
+  "cylinder": {
+    "mean_bot": -0.01250000000000005,
+    "mean_top": 0.012499999999999959,
+    "mean_abs_bulk": 1.0393489544852318e-16,
+    "n_occ": 479,
+    "pass": true
+  },
+  "cut_open": {
+    "mean_Iy_left": -0.054740651804534024,
+    "mean_Iy_right": 0.05474065180453389,
+    "mean_Iy_right_yflip": -0.05474065180453389,
+    "mean_abs_bulk_Iy": 5.131119883113384e-09,
+    "n_left": 11,
+    "n_right": 11,
+    "n_occ": 6,
+    "pass_co_prop_yflip": true,
+    "pass_strong": true,
+    "pass": true
+  },
+  "sealed_mobius": {
+    "mean_abs_seam": 0.015926403293194256,
+    "mean_abs_edge": 0.013814002508721938,
+    "mean_abs_bulk": 1.7077058562561318e-07,
+    "n_seam": 104,
+    "n_occ": 6,
+    "pass": true
+  },
+  "pass_all": true,
+  "citations": [
+    "Huang & Lee, PRB 84, 193106 (2011); arXiv:1107.1411",
+    "Beugeling et al., PRB 89, 235112 (2014); arXiv:1403.6998"
+  ],
+  "note": "Reproduction of Huang-Lee / Beugeling; not a novelty claim."
+}
