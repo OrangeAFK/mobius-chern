@@ -11,6 +11,4 @@ figures/*.png
 figures/*.pdf
 figures/*.html
 figures/*.svg
-results/*.json
-
 !.gitkeep
