@@ -1,0 +1,13 @@
+{
+  "t": 1.0,
+  "E_Gamma": -4.0,
+  "E_X": -0.0,
+  "E_M": 4.0,
+  "band_edges": [
+    -4.0,
+    4.0
+  ],
+  "dos_near_zero_frac": 0.09092881944444445,
+  "pass_extrema": true,
+  "pass_saddle_X": true
+}
