@@ -1,0 +1,27 @@
+{
+  "Nx": 32,
+  "Ny": 16,
+  "plus": {
+    "lam": 1.0,
+    "n_occ": 511,
+    "mean_bot_x": -0.015624999999999976,
+    "mean_top_x": 0.015624999999999943,
+    "mean_edge_x": -8.239936510889834e-18,
+    "mean_abs_bulk_x": 9.941125952484844e-17,
+    "n_bot": 32,
+    "n_top": 32
+  },
+  "minus": {
+    "lam": -1.0,
+    "n_occ": 511,
+    "mean_bot_x": 0.015624999999999958,
+    "mean_top_x": -0.015624999999999977,
+    "mean_edge_x": 1.951563910473908e-17,
+    "mean_abs_bulk_x": 1.0543817423027064e-16,
+    "n_bot": 32,
+    "n_top": 32
+  },
+  "pass_reverses_with_lam": true,
+  "pass_bulk_small": true,
+  "pass_counter_propagating": true
+}
