@@ -1,0 +1,16 @@
+PLAN.md
+pdfs/
+*.pdf
+
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+figures/*.png
+figures/*.pdf
+figures/*.html
+figures/*.svg
+results/*.json
+
+!.gitkeep
