@@ -1,0 +1,89 @@
+{
+  "Nx": 40,
+  "Ny": 12,
+  "x0": 10.0,
+  "ws": [
+    0.5,
+    2.0,
+    5.0
+  ],
+  "primary_w": 2.0,
+  "by_w": {
+    "0.5": {
+      "wall_col": 10,
+      "mean_pos": 0.9959072987719939,
+      "mean_neg": -0.9979510078224877,
+      "residual_pos": 0.00409270122800609,
+      "residual_neg": 0.00204899217751231,
+      "n_pos": 5,
+      "n_neg": 5,
+      "h_wall": {
+        "mean_abs_h_wall": 0.0886001291490924,
+        "mean_abs_h_plateau": 1.0700144948499468,
+        "soft_width": 1,
+        "wall_suppressed": true
+      },
+      "seam_continuity": {
+        "mag_rel_diff": 5.588928708476733e-06,
+        "C_jump_across_seam": 4.9584508323707865e-06,
+        "mean_abs_h_L": 0.9074196375950514,
+        "mean_abs_h_R": 0.907414679144219,
+        "continuous": true
+      },
+      "pass_plateau": true,
+      "pass_h_vanishes": true,
+      "pass_h_continuous": true
+    },
+    "2.0": {
+      "wall_col": 10,
+      "mean_pos": 0.9964110461909801,
+      "mean_neg": -0.9996040759216576,
+      "residual_pos": 0.0035889538090199125,
+      "residual_neg": 0.0003959240783424356,
+      "n_pos": 4,
+      "n_neg": 4,
+      "h_wall": {
+        "mean_abs_h_wall": 0.44315241607516676,
+        "mean_abs_h_plateau": 1.002845279488487,
+        "soft_width": 1,
+        "wall_suppressed": true
+      },
+      "seam_continuity": {
+        "mag_rel_diff": 6.496802385441122e-05,
+        "C_jump_across_seam": 5.8953335689726494e-05,
+        "mean_abs_h_L": 0.9074502691142632,
+        "mean_abs_h_R": 0.9073913157785735,
+        "continuous": true
+      },
+      "pass_plateau": true,
+      "pass_h_vanishes": true,
+      "pass_h_continuous": true
+    },
+    "5.0": {
+      "wall_col": 10,
+      "mean_pos": NaN,
+      "mean_neg": NaN,
+      "residual_pos": 999.0,
+      "residual_neg": 999.0,
+      "n_pos": 0,
+      "n_neg": 0,
+      "h_wall": {
+        "mean_abs_h_wall": 0.23823468884970728,
+        "mean_abs_h_plateau": 1.0012627909222902,
+        "soft_width": 1,
+        "wall_suppressed": true
+      },
+      "seam_continuity": {
+        "mag_rel_diff": 0.006143205927466249,
+        "C_jump_across_seam": 0.0005542406427676561,
+        "mean_abs_h_L": 0.8986889637947584,
+        "mean_abs_h_R": 0.899243204437526,
+        "continuous": true
+      },
+      "pass_plateau": false,
+      "pass_h_vanishes": true,
+      "pass_h_continuous": true
+    }
+  },
+  "pass": true
+}
