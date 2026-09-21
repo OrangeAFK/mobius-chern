@@ -1,0 +1,81 @@
+{
+  "Nx": 40,
+  "Ny": 12,
+  "n_profiles": 10,
+  "rng_seed": 20260321,
+  "k_max_odd": 7,
+  "profiles": [
+    {
+      "seed_index": 0,
+      "n_zeros_lambda": 3,
+      "n_walls_matched": 3,
+      "n_walls": 3,
+      "match": true
+    },
+    {
+      "seed_index": 1,
+      "n_zeros_lambda": 1,
+      "n_walls_matched": 1,
+      "n_walls": 1,
+      "match": true
+    },
+    {
+      "seed_index": 2,
+      "n_zeros_lambda": 5,
+      "n_walls_matched": 4,
+      "n_walls": 5,
+      "match": true
+    },
+    {
+      "seed_index": 3,
+      "n_zeros_lambda": 1,
+      "n_walls_matched": 1,
+      "n_walls": 1,
+      "match": true
+    },
+    {
+      "seed_index": 4,
+      "n_zeros_lambda": 3,
+      "n_walls_matched": 3,
+      "n_walls": 3,
+      "match": true
+    },
+    {
+      "seed_index": 5,
+      "n_zeros_lambda": 1,
+      "n_walls_matched": 1,
+      "n_walls": 1,
+      "match": true
+    },
+    {
+      "seed_index": 6,
+      "n_zeros_lambda": 1,
+      "n_walls_matched": 1,
+      "n_walls": 1,
+      "match": true
+    },
+    {
+      "seed_index": 7,
+      "n_zeros_lambda": 1,
+      "n_walls_matched": 1,
+      "n_walls": 1,
+      "match": true
+    },
+    {
+      "seed_index": 8,
+      "n_zeros_lambda": 1,
+      "n_walls_matched": 1,
+      "n_walls": 1,
+      "match": true
+    },
+    {
+      "seed_index": 9,
+      "n_zeros_lambda": 1,
+      "n_walls_matched": 1,
+      "n_walls": 1,
+      "match": true
+    }
+  ],
+  "pass_all_odd": true,
+  "pass_marker_match": true
+}
