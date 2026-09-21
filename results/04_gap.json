@@ -1,0 +1,19 @@
+{
+  "lam": 1.0,
+  "gaps_at_critical": {
+    "-2.0": 0.0,
+    "0.0": 2.4492935982947064e-16,
+    "2.0": 3.463824224941973e-16
+  },
+  "gaps_on_grid_near_critical": {
+    "-2.0": 0.0,
+    "0.0": 2.4492935982947064e-16,
+    "2.0": 3.463824224941973e-16
+  },
+  "dhat_z_Gamma": {
+    "m_lo": 1.0,
+    "m_hi": 1.0
+  },
+  "pass_gap_closes": true,
+  "pass_texture_changes": false
+}
