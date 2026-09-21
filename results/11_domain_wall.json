@@ -1,0 +1,157 @@
+{
+  "Nx": 40,
+  "Ny": 12,
+  "x0": 10.0,
+  "ws": [
+    0.5,
+    2.0,
+    5.0
+  ],
+  "primary_w": 2.0,
+  "by_w": [
+    {
+      "w": 0.5,
+      "wall_cols": [
+        10,
+        30
+      ],
+      "n_modes": 4,
+      "n_per_wall": [
+        2,
+        2
+      ],
+      "mode_energies": [
+        -0.017299805309222552,
+        0.01729980530922262,
+        0.08206927651595788,
+        -0.08206927651595834
+      ],
+      "co_propagating": true,
+      "co_detail": {
+        "wall0": {
+          "n": 2,
+          "Iy": [
+            -0.009757070074963636,
+            -0.009757070074963604
+          ],
+          "same_sign": true
+        },
+        "wall1": {
+          "n": 2,
+          "Iy": [
+            0.009757255114220662,
+            0.009757255114220681
+          ],
+          "same_sign": true
+        }
+      },
+      "plateaus": {
+        "mean_Cx_lam_pos": 0.9985030916168797,
+        "mean_Cx_lam_neg": -0.9747517438259992,
+        "n_pos": 13,
+        "n_neg": 9
+      },
+      "Cx_flip": true,
+      "pass_modes": true,
+      "pass_co": true,
+      "pass_flip": true
+    },
+    {
+      "w": 2.0,
+      "wall_cols": [
+        10,
+        30
+      ],
+      "n_modes": 4,
+      "n_per_wall": [
+        2,
+        2
+      ],
+      "mode_energies": [
+        -0.025622273269709707,
+        0.025622273269710154,
+        -0.07914756968278507,
+        0.07914756968278526
+      ],
+      "co_propagating": true,
+      "co_detail": {
+        "wall0": {
+          "n": 2,
+          "Iy": [
+            -0.009007777554170924,
+            -0.009007777554170898
+          ],
+          "same_sign": true
+        },
+        "wall1": {
+          "n": 2,
+          "Iy": [
+            0.009007823461895118,
+            0.009007823461895137
+          ],
+          "same_sign": true
+        }
+      },
+      "plateaus": {
+        "mean_Cx_lam_pos": 0.9968012638272172,
+        "mean_Cx_lam_neg": -0.9805727084105942,
+        "n_pos": 13,
+        "n_neg": 9
+      },
+      "Cx_flip": true,
+      "pass_modes": true,
+      "pass_co": true,
+      "pass_flip": true
+    },
+    {
+      "w": 5.0,
+      "wall_cols": [
+        10,
+        30
+      ],
+      "n_modes": 4,
+      "n_per_wall": [
+        2,
+        2
+      ],
+      "mode_energies": [
+        -0.04693094826179276,
+        0.04693094826179318,
+        -0.06450946007702485,
+        0.06450946007702538
+      ],
+      "co_propagating": true,
+      "co_detail": {
+        "wall0": {
+          "n": 2,
+          "Iy": [
+            -0.0069102989826454395,
+            -0.006910298982645421
+          ],
+          "same_sign": true
+        },
+        "wall1": {
+          "n": 2,
+          "Iy": [
+            0.0069104301000024815,
+            0.00691043010000249
+          ],
+          "same_sign": true
+        }
+      },
+      "plateaus": {
+        "mean_Cx_lam_pos": 0.9602014955637426,
+        "mean_Cx_lam_neg": -1.037538455040475,
+        "n_pos": 13,
+        "n_neg": 9
+      },
+      "Cx_flip": true,
+      "pass_modes": true,
+      "pass_co": true,
+      "pass_flip": true
+    }
+  ],
+  "pass_modes": true,
+  "pass_co": true,
+  "pass_flip": true
+}
