@@ -1,0 +1,18 @@
+{
+  "m": 1.0,
+  "plus": {
+    "lam": 1.0,
+    "d_x_mean": 0.0,
+    "d_y_mean": -5.396917480816733e-18,
+    "d_z_mean": 0.491169158163246
+  },
+  "minus": {
+    "lam": -1.0,
+    "d_x_mean": 0.0,
+    "d_y_mean": 5.396917480816733e-18,
+    "d_z_mean": 0.491169158163246
+  },
+  "max_abs_dy_plus_minus": 0.0,
+  "max_abs_dx_diff": 0.0,
+  "pass_dy_reflection": true
+}
