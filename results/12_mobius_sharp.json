@@ -1,0 +1,24 @@
+{
+  "Nx": 40,
+  "Ny": 12,
+  "lam": 1.0,
+  "seam_indices": [
+    480,
+    479
+  ],
+  "seam_energies": [
+    0.05040814281636863,
+    -0.050408142816369135
+  ],
+  "n_seam_modes": 2,
+  "arc_mean_left": 0.8094863751203254,
+  "arc_mean_right": -0.8094863751203252,
+  "n_occ": 480,
+  "pass_seam_modes": true,
+  "pass_marker_flip": true,
+  "note": "results/mobius_sharp.md",
+  "citations": [
+    "Beugeling, Quelle, Morais Smith, PRB 89, 235112 (2014); arXiv:1403.6998",
+    "Huang & Lee, PRB 84, 193106 (2011); arXiv:1107.1411"
+  ]
+}
